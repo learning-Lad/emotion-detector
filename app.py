@@ -4,7 +4,7 @@ import numpy as np
 from deepface import DeepFace
 from PIL import Image
 
-st.title("AI Emotion Detector")
+st.title("MARLEY'S AI Emotion Detector")
 st.write("Click the button below to take a photo and analyze your emotion.")
 
 # This line automatically triggers the browser to ask for camera permission
